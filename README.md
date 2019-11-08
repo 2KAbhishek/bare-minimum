@@ -1,11 +1,11 @@
 # Project name
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/2kabhishek/Template)
+![GitHub contributors](https://img.shields.io/github/contributors/2kabhishek/Template)
+![GitHub stars](https://img.shields.io/github/stars/2kabhishek/Template?style=social)
+![GitHub forks](https://img.shields.io/github/forks/2kabhishek/Template?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/2kabhishek?style=social)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
@@ -58,9 +58,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 Thanks to the following people who have contributed to this project:
 
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+* [@2kabhishek](https://github.com/2kabhishek) 📖
+* [@2kabhishek](https://github.com/calchuchesta) 🐛
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
