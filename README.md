@@ -17,9 +17,9 @@ Before you begin, ensure you have met the following requirements:
 
 * You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing <project_name>
+## Installing BareMinimum
 
-To install <project_name>, follow these steps:
+To install BareMinimum, follow these steps:
 
 Linux & Mac OS:
 
@@ -33,9 +33,9 @@ Windows:
 <install_command>
 ```
 
-## Using <project_name>
+## Using BareMinimum
 
-To use <project_name>, follow these steps:
+To use BareMinimum, follow these steps:
 
 ```
 <usage_example>
