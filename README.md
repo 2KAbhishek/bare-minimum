@@ -40,3 +40,4 @@ To use BareMinimum, follow these steps:
 ```
 <usage_example>
 ```
+### More Info
