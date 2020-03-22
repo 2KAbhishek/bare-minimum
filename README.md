@@ -23,13 +23,15 @@ To install BareMinimum, follow these steps:
 
 Linux & Mac OS:
 
-```
+```bash
+git clone https://github.com/2kabhishek/BareMinimum
+cd BareMinimum
 <install_command>
 ```
 
 Windows:
 
-```
+```bash
 <install_command>
 ```
 
@@ -37,7 +39,8 @@ Windows:
 
 To use BareMinimum, follow these steps:
 
-```
+```bash
 <usage_example>
 ```
 ### More Info
+
