@@ -1,5 +1,3 @@
-<div align="center">
-
 # BareMinimum
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/BareMinimum?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
-</div>
 
 ## Prerequisites
 
@@ -44,7 +41,6 @@ OPTIONS:
 
 ```
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
