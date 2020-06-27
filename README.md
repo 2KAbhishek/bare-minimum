@@ -10,9 +10,9 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Wipro-PJP?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Wipro-PJP?style=plastic&color=000&label=License)
 
-</div>
-
 BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+
+</div>
 
 ## Prerequisites
 
