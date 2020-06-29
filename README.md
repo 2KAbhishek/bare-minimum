@@ -10,7 +10,6 @@
 
 BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -41,6 +40,4 @@ OPTIONS:
 
 ```
 
-
 ### More Info
-
