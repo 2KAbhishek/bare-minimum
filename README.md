@@ -42,7 +42,7 @@ OPTIONS:
 ### To-Do
 
 - [x] Setup repo
-- [] Think real hard
-- [] Start typing
+- [ ] Think real hard
+- [ ] Start typing
 
 ### More Info
