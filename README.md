@@ -39,6 +39,7 @@ OPTIONS:
     -o, --option <value>    Option description. Options are: a, b. [default: a]
 
 ```
+
 ### To-Do
 
 - [x] Setup repo
