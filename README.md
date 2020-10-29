@@ -46,6 +46,8 @@ OPTIONS:
 - [ ] Think real hard
 - [ ] Start typing
 
+Hit the :star: button if you found this useful.
+
 ### More Info
 
 
