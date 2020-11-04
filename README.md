@@ -49,5 +49,3 @@ OPTIONS:
 Hit the :star: button if you found this useful.
 
 ### More Info
-
-
