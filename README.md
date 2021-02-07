@@ -61,9 +61,29 @@ FLAGS:
     -h, --help              Prints help information.
 
 OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
+    -o, --option <value>    Option description.
+    Options are: a, b. [default: a]
+
+Example:
+
 
 ```
+
+## How it was built
+
+BareMinimum was built using `<tech/library>`
+
+## Challenges faced
+
+While building BareMinimum the main challenges were `<issue/difficulty>`
+
+## What I learned
+
+While building BareMinimum I `<learned/accomplished>` about `<learning/accomplishment>`
+
+## What's next
+
+Add colors to the UI, a configuration management system.
 
 ### To-Do
 
