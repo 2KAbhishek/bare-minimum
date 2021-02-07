@@ -93,4 +93,11 @@ Add colors to the UI, a configuration management system.
 
 Hit the :star: button if you found this useful.
 
-### More Info
+## More Info
+
+<div align="center">
+
+<a href="https://github.com/2KAbhishek/BareMinimum">Source</a> |
+<a href="https://2kabhishek.github.io/BareMinimum">Website</a>
+
+</div>
