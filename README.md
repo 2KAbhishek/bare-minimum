@@ -1,4 +1,6 @@
-# BareMinimum
+<div align = "center">
+
+# [BareMinimum](https://2kabhishek.github.io/BareMinimum)
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/BareMinimum?style=plastic&color=0f0&label=Size)
 ![Updated](https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=plastic&color=f00&label=Updated)
@@ -8,6 +10,9 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=555&label=License)
 
+## Short sweet headline with 🎇🎉
+
+</div>
 BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
