@@ -89,7 +89,7 @@ While building BareMinimum I `<learned/accomplished>` about `<learning/accomplis
 
 ## What's next
 
-Add colors to the UI, a configuration management system.
+Planning to add `<feature/module>`.
 
 ### To-Do
 
