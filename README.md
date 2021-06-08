@@ -35,7 +35,7 @@
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+BareMinimum was inspired by `<reason/idea>`.
 
 ## What it does
 
