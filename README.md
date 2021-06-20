@@ -96,12 +96,9 @@ Planning to add `<feature/module>`.
 - [x] Setup repo
 - [ ] Think real hard
 - [ ] Start typing
+- [ ] Change me
+- [ ] Update README
 - [ ] Finish it 
-
-
-
-
-
 
 Hit the ⭐ button if you found this useful.
 
