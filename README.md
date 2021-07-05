@@ -2,7 +2,7 @@
 
 <h1><a href="https://2kabhishek.github.io/BareMinimum">BareMinimum</a></h1>
 
-<a href="https://github.com/2KAbhishek/BareMinimum/blob/master/LICENSE">
+<a href="https://github.com/2KAbhishek/BareMinimum/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=white&label=License"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/pulse">
@@ -26,7 +26,7 @@
 <h2>Short sweet headline with 🎇🎉</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/master/images/screenshot.jpg" alt="BareMinimum Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.jpg" alt="BareMinimum Demo" style="width:100%">
   <br/>
   <figcaption>BareMinimum Screenshot</figcaption>
 </figure>
