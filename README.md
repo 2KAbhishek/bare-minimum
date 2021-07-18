@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.jpg" alt="BareMinimum Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.png" alt="BareMinimum Demo" style="width:100%">
   <br/>
   <figcaption>BareMinimum Screenshot</figcaption>
 </figure>
@@ -47,7 +47,7 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing BareMinimum
+## Getting BareMinimum
 
 To install BareMinimum, follow these steps:
 
