@@ -33,13 +33,13 @@
 
 </div>
 
+## What is it
+
+BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+
 ## Inspiration
 
 BareMinimum was inspired by `<reason/idea>`.
-
-## What it does
-
-BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
