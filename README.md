@@ -28,7 +28,7 @@
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.png" alt="BareMinimum Demo" style="width:100%">
   <br/>
-  <figcaption>BareMinimum Screenshot</figcaption>
+  <figcaption>BareMinimum screenshot</figcaption>
 </figure>
 
 </div>
