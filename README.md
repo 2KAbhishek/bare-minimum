@@ -33,7 +33,7 @@
 
 </div>
 
-## What is it
+## What is this
 
 BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
