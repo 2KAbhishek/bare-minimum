@@ -28,18 +28,18 @@
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/BareMinimum/main/images/screenshot.png" alt="BareMinimum Demo" style="width:100%">
   <br/>
-  <figcaption>BareMinimum Screenshot</figcaption>
+  <figcaption>BareMinimum screenshot</figcaption>
 </figure>
 
 </div>
 
+## What is this
+
+BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+
 ## Inspiration
 
 BareMinimum was inspired by `<reason/idea>`.
-
-## What it does
-
-BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
