@@ -106,7 +106,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/BareMinimum">Source</a> |
-<a href="https://2kabhishek.github.io/BareMinimum">Website</a>
+<a href="https://github.com/2KAbhishek/BareMinimum">Source</a> | <a href="https://2kabhishek.github.io/BareMinimum">Website</a>
 
 </div>
