@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="BareMinimum Demo" style="width:100%">
+  <img src= "images/screenshot.png" alt="BareMinimum Demo">
   <br/>
   <figcaption>BareMinimum screenshot</figcaption>
 </figure>
