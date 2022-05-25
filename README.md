@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting BareMinimum
 
-To install BareMinimum, follow these steps:
+To get BareMinimum, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/BareMinimum
