@@ -3,22 +3,22 @@
 <h1><a href="https://2kabhishek.github.io/BareMinimum">BareMinimum</a></h1>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=white&label=License"> </a>
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/BareMinimum?style=flat&color=white&label=License"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=plastic&color=e30724&label=Updated"> </a>
+<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=flat&color=e06c75&label=Updated"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=plastic&color=00d451&label=Stars"></a>
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=flat&color=98c379&label=Stars"></a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=plastic&color=1688f0&label=Forks"> </a>
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=flat&color=4688f0&label=Forks"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=plastic&color=ff5500&label=Watchers"> </a>
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=flat&color=e5c07b&label=Watchers"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=plastic&color=f0f&label=Contributors"> </a>
+<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=flat&color=c678dd&label=Contributors"> </a>
 
 <h3>Short sweet headline with 🎇🎉</h3>
 
