@@ -14,11 +14,11 @@
 <a href="https://github.com/2KAbhishek/BareMinimum/network/members">
 <img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=flat&color=4688f0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/BareMinimum/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=flat&color=e5c07b&label=Watchers"> </a>
-
 <a href="https://github.com/2KAbhishek/BareMinimum/graphs/contributors">
 <img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=flat&color=c678dd&label=Contributors"> </a>
+
+<a href="https://github.com/2KAbhishek/BareMinimum/watchers">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=flat&color=e5c07b&label=Watchers"> </a>
 
 <h3>Short sweet headline with 🎇🎉</h3>
 
