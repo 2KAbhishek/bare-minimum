@@ -6,7 +6,7 @@
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/BareMinimum?style=flat&color=eee&label="> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=flat&color=e06c75&label=People"> </a>
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=flat&color=ffaaf2&label=People"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/stargazers">
 <img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=flat&color=98c379&label=Stars"></a>
@@ -18,7 +18,7 @@
 <img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=flat&color=f5d08b&label=Watches"> </a>
 
 <a href="https://github.com/2KAbhishek/BareMinimum/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=flat&color=fabaf2&label="> </a>
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=flat&color=e06c75&label="> </a>
 
 <h3>Short sweet headline with 🎇🎉</h3>
 
