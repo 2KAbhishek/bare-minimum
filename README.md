@@ -95,7 +95,7 @@ BareMinimum was inspired by `<reason/idea>`.
 
 <div align="center">
 
-<strong>⭐ hit the star button if you found this useful ⭐</strong>
+<strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
 <a href="https://github.com/2KAbhishek/BareMinimum">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
