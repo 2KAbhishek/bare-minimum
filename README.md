@@ -42,8 +42,8 @@ BareMinimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
 
 ### ⚡ Requirements
 
-- foo
-- bar
+- foo >= bar
+- bazz
 
 ### 🚀 Installation
 
@@ -95,14 +95,14 @@ BareMinimum was inspired by `<reason/idea>`.
 
 <div align="center">
 
+<strong>⭐ hit the star button if you found this useful ⭐</strong>
+
 <a href="https://github.com/2KAbhishek/BareMinimum">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
 | <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
 | <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
 | <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
 | <a href="https://2kabhishek.github.io/projects" target="_blank">Other Projects </a>
-
-<h5> ⭐ hit the star button if you found this useful ⭐ </h5>
 
 </div>
 
