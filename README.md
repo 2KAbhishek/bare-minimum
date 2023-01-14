@@ -93,6 +93,8 @@ BareMinimum was inspired by `<reason/idea>`.
 
 - [similar](https://github.com/2kabhishek/similar) — a related repo
 
+<hr>
+
 <div align="center">
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
