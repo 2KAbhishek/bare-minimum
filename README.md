@@ -34,18 +34,18 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 
 ## ✨ Features
 
--   Supports foo
--   Can do bar
--   Works with bazz
+- Supports foo
+- Can do bar
+- Works with bazz
 
-## Setup
+## ⚡ Setup
 
-### ⚡ Requirements
+### ⚙️ Requirements
 
--   foo >= bar
--   bazz
+- foo >= bar
+- bazz
 
-### 🚀 Installation
+### 💻 Installation
 
 ```bash
 git clone https://github.com/2kabhishek/bare-minimum
@@ -53,7 +53,7 @@ cd bare-minimum
 <install_command>
 ```
 
-### 💻 Usage
+## 🚀 Usage
 
 ```bash
 USAGE:
@@ -62,17 +62,17 @@ Example:
     bare-minimum
 ```
 
-## What's Next
+## 🏗️ What's Next
 
 Planning to add `<feature/module>`.
 
 ### ✅ To-Do
 
--   [x] Setup repo
--   [ ] Think real hard
--   [ ] Start typing
+- [x] Setup repo
+- [ ] Think real hard
+- [ ] Start typing
 
-## Behind The Code
+## 🧑‍💻 Behind The Code
 
 ### 🌈 Inspiration
 
@@ -80,19 +80,19 @@ bare-minimum was inspired by `<reason/idea>`.
 
 ### 💡 Challenges/Learnings
 
--   The main challenges were `<issue/difficulty>`
--   I learned about `<learning/accomplishment>`
+- The main challenges were `<issue/difficulty>`
+- I learned about `<learning/accomplishment>`
 
 ### 🧰 Tooling
 
--   [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
--   [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
--   [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
--   [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
+- [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
+- [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
+- [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
+- [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
 
 ### 🔍 More Info
 
--   [similar](https://github.com/2kabhishek/similar) — a related repo
+- [similar](https://github.com/2kabhishek/similar) — a related repo
 
 <hr>
 
