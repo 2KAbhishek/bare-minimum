@@ -47,6 +47,8 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 
 ### 💻 Installation
 
+Installing bare-minimum is as simple as cloning and symlinking!
+
 ```bash
 git clone https://github.com/2kabhishek/bare-minimum
 cd bare-minimum
