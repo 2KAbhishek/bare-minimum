@@ -34,9 +34,8 @@ bare-minimum is a `<utility/tool>` that allows `<target_audience>` to `<action>`
 
 ## ✨ Features
 
-- Supports foo
-- Can do bar
-- Works with bazz
+- Comes with a ready to go README template
+- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
 
 ## ⚡ Setup
 
@@ -94,7 +93,8 @@ bare-minimum was inspired by `<reason/idea>`.
 
 ### 🔍 More Info
 
-- [similar](https://github.com/2kabhishek/similar) — a related repo
+- [shelly](https://github.com/2kabhishek/shelly) — Command line template
+- [tiny-web](https://github.com/2kabhishek/tiny-web) — Web app template
 
 <hr>
 
